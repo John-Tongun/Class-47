@@ -1,4 +1,4 @@
-// Author: Cristian Camilo Cortes Ortiz <Cristianco9>
+// Author: John Tongun Wani>
 
 // require to the user two number
 var number1 = parseFloat(prompt("Enter the first number:"));
